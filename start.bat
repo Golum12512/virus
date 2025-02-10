@@ -1,3 +1,1 @@
-@echo off
-
-winget install --id Git.Git -e --source winget
+virus to jest
